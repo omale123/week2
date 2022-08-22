@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to css </title>
+<style type="text/css">
+
+div{height:250px}
+
+#demo{
+background-color:rgb(0,100,0);
+}
+div{height:300px}
+#sample{
+background-color:#DEAC3D;
+
+}
+
+div{height:250px}
+#value{
+background-color:rgba(0,255,0,0.3);
+}
+</style>
+</head>
+<body>
+<div id="demo"></div>
+
+<div id="sample"></div>
+
+<div id="value"></div>
+
+</center>
+</body>
+</html>

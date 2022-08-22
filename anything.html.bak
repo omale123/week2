@@ -1,0 +1,25 @@
+<!DOCKTYPE html>
+<html>
+<head>
+<title>design</title>
+<link rel="stylesheet" href="style.css"
+</head>
+<body>
+<center>
+<h1> My Concern</h1>
+<p> you are welcome to my page im happy to have you</p>
+<p>
+you are welcome to my page im happy to have you<br>
+you are welcome to my page im happy to have you<br>
+you are welcome to my page im happy to have you<br>
+</p>
+
+
+
+<a href="" id="home">Home</a>
+<a href="">ABOUT US</a>
+<a href="">COURSE MODULES</a>
+
+</center>
+</body>
+</html>
